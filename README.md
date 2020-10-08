@@ -1,6 +1,6 @@
 # JavaScript Fundamentals: Scope Lab
 
-## Learning Goals
+## Learning Goals 
 
 * Use `const` and `let` to fix the scope in JavaScript
 
